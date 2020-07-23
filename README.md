@@ -1,4 +1,4 @@
-# FCC-Tribute-Page
+# Tribute Page
 This project was created as a part of freeCodeCamp Responsive Web Design Certification.
 
 This is the first of 5 projects required for Responsive Web Design Certification. 
